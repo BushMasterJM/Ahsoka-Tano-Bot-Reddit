@@ -1,6 +1,6 @@
 Based off of: https://github.com/MAL1CE/reddit_bot_template/blob/main/bot_template.py
 
-This bot was made to reply to specific words on meme subreddits like r/prequelmemes. This bot was not made to be harmful to Reddit, subreddits, or redditors. Special thanks to MAL1CE for writing the original code to this bot. The code has been customized for more specific replies. If you would like to use this code, feel free to take it and use it. Please credit me and especially MAL1CE. Please however do not create another Ahsoka bot.
+This bot was made to reply to specific words on meme subreddits like r/prequelmemes. This bot was not made to be harmful to Reddit, subreddits, or redditors. Special thanks to MAL1CE for writing the original code to this bot. The code has been customized for more specific replies. If you would like to use this code, feel free to take it and use it. Please credit me and especially MAL1CE. Please however do not create another Ahsoka bot, create another character.
 
 If statements:
 
